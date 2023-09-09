@@ -1,0 +1,9 @@
+.navbar-brand img {
+    height: auto;
+    width: 74.5px;
+}
+
+.search-bar-icon, .favorites-icon, .cart-icon {
+    width: 24px;
+    height: 24px;
+}
