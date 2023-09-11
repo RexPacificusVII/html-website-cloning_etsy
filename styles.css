@@ -198,7 +198,7 @@ main {
     margin-top: 8em;
     background-image: url(./assets/etsy_background.png);
     background-repeat: no-repeat;
-    overflow: hidden;
+    /* overflow: hidden; */
     height: 855px;
 }
 
@@ -212,6 +212,7 @@ main {
     font-weight: lighter;
     text-align: center;
     margin-top: 1.5em;
+    padding-top: 1.5em;
 }
 
 .what-is-etsy p {
